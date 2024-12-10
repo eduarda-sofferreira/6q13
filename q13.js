@@ -2,7 +2,7 @@ var c = 1
 var ate100 = 0
 while ( c <= 20) {
     var numero = parseInt (prompt ("informe um número"))
-    if ( numero >= 0 && <= 100 0){
+    if ( numero >= 0 && numero <= 100 0){
         ate100++;
     }
     c++
